@@ -7,6 +7,32 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About LaravelBlog
+This is an application made in Laravel, with learnership purposes, you can navigate inside and seek for next views:
+- Login.<br>
+  <img width="420" alt="login" src="https://github.com/user-attachments/assets/1bbb865d-a9bf-4156-85ef-41945d0fde86">
+
+- Main (unlogged).<br>
+  <img width="369" alt="mainUnlogued" src="https://github.com/user-attachments/assets/e69613ff-81c5-4f5f-a7bb-ba485381a4a1">
+
+- Main (logged).<br>
+  <img width="416" alt="MainLogueado1" src="https://github.com/user-attachments/assets/1a6b2675-696a-490e-8f1f-67d6ac7c86d5">
+
+- Main (CRUD View).<br>
+  <img width="368" alt="MainLogueado2" src="https://github.com/user-attachments/assets/989d0190-0bb2-4e1c-bfe2-3777551f3388">
+
+- Create new blog post.<br>
+  <img width="363" alt="nueva entrada" src="https://github.com/user-attachments/assets/805881da-7c78-42aa-be37-c4bd18eb70eb">
+
+- See blog Post.<br>
+  <img width="378" alt="leer mas" src="https://github.com/user-attachments/assets/9d0005d6-6b33-40ba-9a2e-d96e006ed561">
+
+- Edit blog Post.<br>
+  <img width="364" alt="editar" src="https://github.com/user-attachments/assets/ce55fc5c-bef3-4a12-86a4-7406075cf683">
+
+- Delete blog Post.<br>
+  <img width="358" alt="eliminar" src="https://github.com/user-attachments/assets/aabd6168-0ea6-49c9-8c84-9d36cd94a86d">
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
