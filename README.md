@@ -4,7 +4,7 @@
 
 
 ## About LaravelBlog
-This is an application made in Laravel, with learnership purposes, you can navigate inside and seek for next views:
+A powerful application made in Laravel working in AWS, for learnership purposes, you can navigate inside and seek for next views:
 - <b>Login.</b> The view through you log in to the main blog view.<br>
   <img width="800" align="center" alt="login" src="https://github.com/user-attachments/assets/1bbb865d-a9bf-4156-85ef-41945d0fde86">
 
