@@ -20,9 +20,11 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        Paginator::useBootstrapFour();
+        //Descomentar cuando se tenga dominio configurado en AWS
         // if(config('app.env')=='production'){
         //     URL::forceScheme('https');
         // }
+        Paginator::useBootstrapFour();
+        
     }
 }
