@@ -1,7 +1,4 @@
 # LaravelBlog
-<b>Try it by yourself!</b> Type <b>http://54.88.202.108/</b> in your web browser and let's rock!<br>
-<img width="800" align="center" alt="testing LaravelBlog" src="https://github.com/user-attachments/assets/f2e41a48-727a-432b-a7e8-c5c9e92c5bd3">
-
 
 ## About LaravelBlog
 A powerful application made in Laravel working in AWS, for learnership purposes, you can navigate inside and seek for next views:
